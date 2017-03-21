@@ -1,1 +1,7 @@
+site_name: OpenFace
+repo_url: https://github.com/chengx-coding/chengx-coding.github.io.git
 theme: jekyll-theme-cayman
+pages:
+- Home: index.md
+- Demos:
+  - Demo 1: helloworld.md
