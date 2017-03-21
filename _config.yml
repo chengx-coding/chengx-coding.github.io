@@ -2,7 +2,8 @@ title: ChengX的GitHub博客
 description: A coding coder...
 site_name: ChengX-coding
 repo_url: https://github.com/chengx-coding/chengx-coding.github.io.git
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: mkdocs
 pages:
 - Home: index.md
 - Demos:
