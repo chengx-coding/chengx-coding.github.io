@@ -1,6 +1,8 @@
 ## 嗯从这里开始...
 
 之后再仔细看看Jekyll的文档吧，我三大件都没好好学过啊。。。Orz
+[Cayman主题](https://github.com/pages-themes/cayman)
+[mkdocs主题](https://github.com/mkdocs/mkdocs)
 
 You can use the [editor on GitHub](https://github.com/chengx-coding/chengx-coding.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
